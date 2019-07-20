@@ -1,0 +1,848 @@
+{
+  "businesses": [
+      {
+          "id": "zhP28ctD8GBBEyW3miXFtw",
+          "alias": "peppys-deli-jersey-city",
+          "name": "Peppy's Deli",
+          "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tCJe5Pl94hS8mvq2QKGCzg/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/peppys-deli-jersey-city?adjust_creative=rdUK9P-8dnHjysDj_wHeEQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rdUK9P-8dnHjysDj_wHeEQ",
+          "review_count": 3,
+          "categories": [
+              {
+                  "alias": "delis",
+                  "title": "Delis"
+              },
+              {
+                  "alias": "sandwiches",
+                  "title": "Sandwiches"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 40.699,
+              "longitude": -74.096
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "1689 John F Kennedy Blvd",
+              "address2": "",
+              "address3": "",
+              "city": "Jersey City",
+              "zip_code": "07305",
+              "country": "US",
+              "state": "NJ",
+              "display_address": [
+                  "1689 John F Kennedy Blvd",
+                  "Jersey City, NJ 07305"
+              ]
+          },
+          "phone": "+12014332312",
+          "display_phone": "(201) 433-2312",
+          "distance": 200.32548269487688
+      },
+      {
+          "id": "n8mR-p5hzh1nLCLe7SVN5g",
+          "alias": "298-danforth-deli-jersey-city",
+          "name": "298 Danforth Deli",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bTrW0KiwAX0-fNONW3wWYA/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/298-danforth-deli-jersey-city?adjust_creative=rdUK9P-8dnHjysDj_wHeEQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rdUK9P-8dnHjysDj_wHeEQ",
+          "review_count": 1,
+          "categories": [
+              {
+                  "alias": "convenience",
+                  "title": "Convenience Stores"
+              },
+              {
+                  "alias": "delis",
+                  "title": "Delis"
+              }
+          ],
+          "rating": 5,
+          "coordinates": {
+              "latitude": 40.70161,
+              "longitude": -74.0954
+          },
+          "transactions": [],
+          "location": {
+              "address1": "298 Danforth Ave",
+              "address2": null,
+              "address3": "",
+              "city": "Jersey City",
+              "zip_code": "07305",
+              "country": "US",
+              "state": "NJ",
+              "display_address": [
+                  "298 Danforth Ave",
+                  "Jersey City, NJ 07305"
+              ]
+          },
+          "phone": "+12014352820",
+          "display_phone": "(201) 435-2820",
+          "distance": 477.76744777394447
+      },
+      {
+          "id": "gzEMiMSuNxJatFRbxmHyYQ",
+          "alias": "carmines-italian-deli-jersey-city",
+          "name": "Carmines Italian Deli",
+          "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/QbAjjbg6nDVb_fF72erJyA/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/carmines-italian-deli-jersey-city?adjust_creative=rdUK9P-8dnHjysDj_wHeEQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rdUK9P-8dnHjysDj_wHeEQ",
+          "review_count": 134,
+          "categories": [
+              {
+                  "alias": "delis",
+                  "title": "Delis"
+              },
+              {
+                  "alias": "italian",
+                  "title": "Italian"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 40.72018,
+              "longitude": -74.08793
+          },
+          "transactions": [],
+          "price": "$$",
+          "location": {
+              "address1": "165 Mallory Ave",
+              "address2": "",
+              "address3": "",
+              "city": "Jersey City",
+              "zip_code": "07304",
+              "country": "US",
+              "state": "NJ",
+              "display_address": [
+                  "165 Mallory Ave",
+                  "Jersey City, NJ 07304"
+              ]
+          },
+          "phone": "+12014345155",
+          "display_phone": "(201) 434-5155",
+          "distance": 2624.837589131384
+      },
+      {
+          "id": "v4N08YmjW24gj7qaastqaw",
+          "alias": "neptune-bakery-and-deli-jersey-city",
+          "name": "Neptune Bakery & Deli",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SKZUosDfZr_DWo5QQNhiog/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/neptune-bakery-and-deli-jersey-city?adjust_creative=rdUK9P-8dnHjysDj_wHeEQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rdUK9P-8dnHjysDj_wHeEQ",
+          "review_count": 74,
+          "categories": [
+              {
+                  "alias": "delis",
+                  "title": "Delis"
+              },
+              {
+                  "alias": "bakeries",
+                  "title": "Bakeries"
+              }
+          ],
+          "rating": 4,
+          "coordinates": {
+              "latitude": 40.6964247,
+              "longitude": -74.0980173
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "1612 John F Kennedy Blvd",
+              "address2": "",
+              "address3": "",
+              "city": "Jersey City",
+              "zip_code": "07305",
+              "country": "US",
+              "state": "NJ",
+              "display_address": [
+                  "1612 John F Kennedy Blvd",
+                  "Jersey City, NJ 07305"
+              ]
+          },
+          "phone": "+12013332374",
+          "display_phone": "(201) 333-2374",
+          "distance": 254.15109953172035
+      },
+      {
+          "id": "T4G8DbZnX8aZ4lwY62gE7g",
+          "alias": "giovannis-salumeria-bayonne-2",
+          "name": "Giovanni's Salumeria",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rPCJEtWamERlwPb3RK0j0A/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/giovannis-salumeria-bayonne-2?adjust_creative=rdUK9P-8dnHjysDj_wHeEQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rdUK9P-8dnHjysDj_wHeEQ",
+          "review_count": 65,
+          "categories": [
+              {
+                  "alias": "italian",
+                  "title": "Italian"
+              },
+              {
+                  "alias": "delis",
+                  "title": "Delis"
+              },
+              {
+                  "alias": "sandwiches",
+                  "title": "Sandwiches"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 40.6698576224722,
+              "longitude": -74.1130916029215
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "666 Broadway",
+              "address2": "",
+              "address3": null,
+              "city": "Bayonne",
+              "zip_code": "07002",
+              "country": "US",
+              "state": "NJ",
+              "display_address": [
+                  "666 Broadway",
+                  "Bayonne, NJ 07002"
+              ]
+          },
+          "phone": "+12014712405",
+          "display_phone": "(201) 471-2405",
+          "distance": 3391.6383829151832
+      },
+      {
+          "id": "8jF9wrKrQYLP7jhUlSBPuA",
+          "alias": "hobbys-delicatessen-and-restaurant-newark",
+          "name": "Hobby's Delicatessen & Restaurant",
+          "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vfTTUmwC1czf3B-S63lyBA/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/hobbys-delicatessen-and-restaurant-newark?adjust_creative=rdUK9P-8dnHjysDj_wHeEQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rdUK9P-8dnHjysDj_wHeEQ",
+          "review_count": 233,
+          "categories": [
+              {
+                  "alias": "delis",
+                  "title": "Delis"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 40.73509,
+              "longitude": -74.17438
+          },
+          "transactions": [
+              "pickup",
+              "delivery"
+          ],
+          "price": "$$",
+          "location": {
+              "address1": "32 Branford Pl",
+              "address2": "",
+              "address3": "",
+              "city": "Newark",
+              "zip_code": "07102",
+              "country": "US",
+              "state": "NJ",
+              "display_address": [
+                  "32 Branford Pl",
+                  "Newark, NJ 07102"
+              ]
+          },
+          "phone": "+19736230410",
+          "display_phone": "(973) 623-0410",
+          "distance": 7869.917977633344
+      },
+      {
+          "id": "2r9WlL63dAkma-o3Lxptlw",
+          "alias": "dixon-deli-jersey-city",
+          "name": "Dixon Deli",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/S7Ase3Nd2NeMa7REofylug/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/dixon-deli-jersey-city?adjust_creative=rdUK9P-8dnHjysDj_wHeEQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rdUK9P-8dnHjysDj_wHeEQ",
+          "review_count": 26,
+          "categories": [
+              {
+                  "alias": "delis",
+                  "title": "Delis"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 40.72097,
+              "longitude": -74.04812
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "358 Varick St",
+              "address2": "",
+              "address3": "",
+              "city": "Jersey City",
+              "zip_code": "07302",
+              "country": "US",
+              "state": "NJ",
+              "display_address": [
+                  "358 Varick St",
+                  "Jersey City, NJ 07302"
+              ]
+          },
+          "phone": "+12014342885",
+          "display_phone": "(201) 434-2885",
+          "distance": 4785.502646721692
+      },
+      {
+          "id": "F3XeukXccFSIC7taECxTkQ",
+          "alias": "andrea-salumeria-jersey-city",
+          "name": "Andrea Salumeria",
+          "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/iMDD-IqgaP_spfMACKhjOA/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/andrea-salumeria-jersey-city?adjust_creative=rdUK9P-8dnHjysDj_wHeEQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rdUK9P-8dnHjysDj_wHeEQ",
+          "review_count": 236,
+          "categories": [
+              {
+                  "alias": "delis",
+                  "title": "Delis"
+              }
+          ],
+          "rating": 5,
+          "coordinates": {
+              "latitude": 40.74355,
+              "longitude": -74.0514
+          },
+          "transactions": [
+              "pickup",
+              "delivery"
+          ],
+          "price": "$",
+          "location": {
+              "address1": "247 Central Ave",
+              "address2": "Apt 3",
+              "address3": "",
+              "city": "Jersey City",
+              "zip_code": "07307",
+              "country": "US",
+              "state": "NJ",
+              "display_address": [
+                  "247 Central Ave",
+                  "Apt 3",
+                  "Jersey City, NJ 07307"
+              ]
+          },
+          "phone": "+12016531666",
+          "display_phone": "(201) 653-1666",
+          "distance": 6347.112295727798
+      },
+      {
+          "id": "SATdnpUltA3zgAextgzwHA",
+          "alias": "the-bread-of-heaven-grocery-and-deli-jersey-city",
+          "name": "The Bread of Heaven Grocery & Deli",
+          "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/q9bTl-aahXzU20M8kHYlcA/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/the-bread-of-heaven-grocery-and-deli-jersey-city?adjust_creative=rdUK9P-8dnHjysDj_wHeEQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rdUK9P-8dnHjysDj_wHeEQ",
+          "review_count": 1,
+          "categories": [
+              {
+                  "alias": "delis",
+                  "title": "Delis"
+              }
+          ],
+          "rating": 5,
+          "coordinates": {
+              "latitude": 40.70303,
+              "longitude": -74.0884899
+          },
+          "transactions": [],
+          "location": {
+              "address1": "81 Martn Lthr Kng Jr Dr",
+              "address2": "",
+              "address3": "",
+              "city": "Jersey City",
+              "zip_code": "07305",
+              "country": "US",
+              "state": "NJ",
+              "display_address": [
+                  "81 Martn Lthr Kng Jr Dr",
+                  "Jersey City, NJ 07305"
+              ]
+          },
+          "phone": "+12014338044",
+          "display_phone": "(201) 433-8044",
+          "distance": 692.3082125711763
+      },
+      {
+          "id": "pYlCh5CfdyALfrEVvf9ewA",
+          "alias": "vianny-meat-market-jersey-city",
+          "name": "Vianny Meat Market",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/c2m8VMLuwafWpNMqCuj-jQ/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/vianny-meat-market-jersey-city?adjust_creative=rdUK9P-8dnHjysDj_wHeEQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rdUK9P-8dnHjysDj_wHeEQ",
+          "review_count": 1,
+          "categories": [
+              {
+                  "alias": "butcher",
+                  "title": "Butcher"
+              },
+              {
+                  "alias": "intlgrocery",
+                  "title": "International Grocery"
+              },
+              {
+                  "alias": "delis",
+                  "title": "Delis"
+              }
+          ],
+          "rating": 5,
+          "coordinates": {
+              "latitude": 40.6950328247869,
+              "longitude": -74.0911571681499
+          },
+          "transactions": [],
+          "location": {
+              "address1": "198 Ocean Ave",
+              "address2": "",
+              "address3": null,
+              "city": "Jersey City",
+              "zip_code": "07305",
+              "country": "US",
+              "state": "NJ",
+              "display_address": [
+                  "198 Ocean Ave",
+                  "Jersey City, NJ 07305"
+              ]
+          },
+          "phone": "+12019840235",
+          "display_phone": "(201) 984-0235",
+          "distance": 442.3471762585442
+      },
+      {
+          "id": "TMM7KLC76nVlKG3Zaviwmg",
+          "alias": "stevens-deli-bayonne",
+          "name": "Steven's Deli",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/riq0tUaPFOM86HTk1BixXg/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/stevens-deli-bayonne?adjust_creative=rdUK9P-8dnHjysDj_wHeEQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rdUK9P-8dnHjysDj_wHeEQ",
+          "review_count": 2,
+          "categories": [
+              {
+                  "alias": "delis",
+                  "title": "Delis"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 40.68096,
+              "longitude": -74.10348
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "974 Broadway",
+              "address2": "",
+              "address3": "",
+              "city": "Bayonne",
+              "zip_code": "07002",
+              "country": "US",
+              "state": "NJ",
+              "display_address": [
+                  "974 Broadway",
+                  "Bayonne, NJ 07002"
+              ]
+          },
+          "phone": "+12018585775",
+          "display_phone": "(201) 858-5775",
+          "distance": 1933.780030540425
+      },
+      {
+          "id": "SitOGRGxe9po2PFZeQ78Cg",
+          "alias": "vitos-italian-deli-hoboken",
+          "name": "Vito's Italian Deli",
+          "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8w8-yX-EUeTBaz3qYnSbGw/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/vitos-italian-deli-hoboken?adjust_creative=rdUK9P-8dnHjysDj_wHeEQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rdUK9P-8dnHjysDj_wHeEQ",
+          "review_count": 277,
+          "categories": [
+              {
+                  "alias": "delis",
+                  "title": "Delis"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 40.74636,
+              "longitude": -74.0284
+          },
+          "transactions": [
+              "pickup",
+              "delivery"
+          ],
+          "price": "$",
+          "location": {
+              "address1": "806 Washington St",
+              "address2": "",
+              "address3": "",
+              "city": "Hoboken",
+              "zip_code": "07030",
+              "country": "US",
+              "state": "NJ",
+              "display_address": [
+                  "806 Washington St",
+                  "Hoboken, NJ 07030"
+              ]
+          },
+          "phone": "+12017924944",
+          "display_phone": "(201) 792-4944",
+          "distance": 7852.691803295009
+      },
+      {
+          "id": "sZVNIL9X0QQYnXXUY-mG-A",
+          "alias": "katy-grill-and-deli-bayonne",
+          "name": "Katy Grill & Deli",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/A6z2Ftb-1piNUapvGihQ7Q/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/katy-grill-and-deli-bayonne?adjust_creative=rdUK9P-8dnHjysDj_wHeEQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rdUK9P-8dnHjysDj_wHeEQ",
+          "review_count": 5,
+          "categories": [
+              {
+                  "alias": "breakfast_brunch",
+                  "title": "Breakfast & Brunch"
+              },
+              {
+                  "alias": "delis",
+                  "title": "Delis"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 40.6774698926084,
+              "longitude": -74.1070200875401
+          },
+          "transactions": [
+              "pickup",
+              "delivery"
+          ],
+          "location": {
+              "address1": "887 Broadway Ave",
+              "address2": "",
+              "address3": null,
+              "city": "Bayonne",
+              "zip_code": "07002",
+              "country": "US",
+              "state": "NJ",
+              "display_address": [
+                  "887 Broadway Ave",
+                  "Bayonne, NJ 07002"
+              ]
+          },
+          "phone": "+12394001156",
+          "display_phone": "(239) 400-1156",
+          "distance": 2408.1471684798857
+      },
+      {
+          "id": "cYoK4HRXLFIMtS2xcLv3dg",
+          "alias": "second-street-bakery-jersey-city",
+          "name": "Second Street Bakery",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HhNHGaqMzHJ5D_mcSh5n5g/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/second-street-bakery-jersey-city?adjust_creative=rdUK9P-8dnHjysDj_wHeEQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rdUK9P-8dnHjysDj_wHeEQ",
+          "review_count": 190,
+          "categories": [
+              {
+                  "alias": "bakeries",
+                  "title": "Bakeries"
+              },
+              {
+                  "alias": "delis",
+                  "title": "Delis"
+              },
+              {
+                  "alias": "sandwiches",
+                  "title": "Sandwiches"
+              }
+          ],
+          "rating": 5,
+          "coordinates": {
+              "latitude": 40.72338,
+              "longitude": -74.05134
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "402 2nd St",
+              "address2": "",
+              "address3": "",
+              "city": "Jersey City",
+              "zip_code": "07302",
+              "country": "US",
+              "state": "NJ",
+              "display_address": [
+                  "402 2nd St",
+                  "Jersey City, NJ 07302"
+              ]
+          },
+          "phone": "+12014201793",
+          "display_phone": "(201) 420-1793",
+          "distance": 4711.274589823393
+      },
+      {
+          "id": "AXch6-PRn0eqle8mdH3o-A",
+          "alias": "huryks-deli-newark",
+          "name": "Huryks Deli",
+          "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nrpLAauraN6wHpVBPo5Yzg/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/huryks-deli-newark?adjust_creative=rdUK9P-8dnHjysDj_wHeEQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rdUK9P-8dnHjysDj_wHeEQ",
+          "review_count": 10,
+          "categories": [
+              {
+                  "alias": "delis",
+                  "title": "Delis"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 40.7372398376465,
+              "longitude": -74.1332473754883
+          },
+          "transactions": [],
+          "location": {
+              "address1": "122 Albert St",
+              "address2": "",
+              "address3": "",
+              "city": "Newark",
+              "zip_code": "07105",
+              "country": "US",
+              "state": "NJ",
+              "display_address": [
+                  "122 Albert St",
+                  "Newark, NJ 07105"
+              ]
+          },
+          "phone": "+19735895897",
+          "display_phone": "(973) 589-5897",
+          "distance": 5459.983645826731
+      },
+      {
+          "id": "Mc9Zmw406JWzHw-W6vrLfQ",
+          "alias": "m-and-p-biancamano-hoboken",
+          "name": "M & P Biancamano",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YnhllClKv2CeZ69TwJkLdA/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/m-and-p-biancamano-hoboken?adjust_creative=rdUK9P-8dnHjysDj_wHeEQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rdUK9P-8dnHjysDj_wHeEQ",
+          "review_count": 178,
+          "categories": [
+              {
+                  "alias": "grocery",
+                  "title": "Grocery"
+              },
+              {
+                  "alias": "delis",
+                  "title": "Delis"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 40.75066,
+              "longitude": -74.02719
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "1116 Washington St",
+              "address2": "",
+              "address3": "",
+              "city": "Hoboken",
+              "zip_code": "07030",
+              "country": "US",
+              "state": "NJ",
+              "display_address": [
+                  "1116 Washington St",
+                  "Hoboken, NJ 07030"
+              ]
+          },
+          "phone": "+12017950274",
+          "display_phone": "(201) 795-0274",
+          "distance": 8269.48450953935
+      },
+      {
+          "id": "xakfVzGdRsTQQQtlSNCz8g",
+          "alias": "enzos-deli-harrison-2",
+          "name": "Enzo's Deli",
+          "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uIK9FZYrNa9QwOhKHnG90A/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/enzos-deli-harrison-2?adjust_creative=rdUK9P-8dnHjysDj_wHeEQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rdUK9P-8dnHjysDj_wHeEQ",
+          "review_count": 22,
+          "categories": [
+              {
+                  "alias": "delis",
+                  "title": "Delis"
+              },
+              {
+                  "alias": "sandwiches",
+                  "title": "Sandwiches"
+              }
+          ],
+          "rating": 5,
+          "coordinates": {
+              "latitude": 40.7469714,
+              "longitude": -74.1561600306885
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "9 Frank E Rodgers Blvd N",
+              "address2": "Ste A",
+              "address3": "",
+              "city": "Harrison",
+              "zip_code": "07029",
+              "country": "US",
+              "state": "NJ",
+              "display_address": [
+                  "9 Frank E Rodgers Blvd N",
+                  "Ste A",
+                  "Harrison, NJ 07029"
+              ]
+          },
+          "phone": "+19734856130",
+          "display_phone": "(973) 485-6130",
+          "distance": 7528.154228839507
+      },
+      {
+          "id": "bUD3Y-uo8RSBlHMR8tN3wQ",
+          "alias": "alex-and-terrys-deli-bayonne",
+          "name": "Alex & Terry's Deli",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eVC9nt_Qy0k8OJ6JFQhiLQ/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/alex-and-terrys-deli-bayonne?adjust_creative=rdUK9P-8dnHjysDj_wHeEQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rdUK9P-8dnHjysDj_wHeEQ",
+          "review_count": 19,
+          "categories": [
+              {
+                  "alias": "polish",
+                  "title": "Polish"
+              },
+              {
+                  "alias": "tradamerican",
+                  "title": "American (Traditional)"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 40.67437,
+              "longitude": -74.1091299
+          },
+          "transactions": [],
+          "price": "$$",
+          "location": {
+              "address1": "798 Broadway",
+              "address2": "",
+              "address3": "",
+              "city": "Bayonne",
+              "zip_code": "07002",
+              "country": "US",
+              "state": "NJ",
+              "display_address": [
+                  "798 Broadway",
+                  "Bayonne, NJ 07002"
+              ]
+          },
+          "phone": "+12014363525",
+          "display_phone": "(201) 436-3525",
+          "distance": 2795.4600398154266
+      },
+      {
+          "id": "73QK7du6OvJypa_WyV-caw",
+          "alias": "state-liquor-and-deli-jersey-city",
+          "name": "State Liquor & Deli",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/prAxCwY8WokbFFltnKjtuQ/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/state-liquor-and-deli-jersey-city?adjust_creative=rdUK9P-8dnHjysDj_wHeEQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rdUK9P-8dnHjysDj_wHeEQ",
+          "review_count": 3,
+          "categories": [
+              {
+                  "alias": "beer_and_wine",
+                  "title": "Beer, Wine & Spirits"
+              },
+              {
+                  "alias": "delis",
+                  "title": "Delis"
+              },
+              {
+                  "alias": "grocery",
+                  "title": "Grocery"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 40.7111556,
+              "longitude": -74.0929657
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "228 W Side Ave",
+              "address2": "",
+              "address3": "",
+              "city": "Jersey City",
+              "zip_code": "07305",
+              "country": "US",
+              "state": "NJ",
+              "display_address": [
+                  "228 W Side Ave",
+                  "Jersey City, NJ 07305"
+              ]
+          },
+          "phone": "+12014333162",
+          "display_phone": "(201) 433-3162",
+          "distance": 1561.7717914753596
+      },
+      {
+          "id": "OTpQbSQNGiGudqJKJASmpw",
+          "alias": "fiore-deli-of-hoboken-hoboken",
+          "name": "Fiore Deli of Hoboken",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/z_MPkszdL9aXjs59523czA/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/fiore-deli-of-hoboken-hoboken?adjust_creative=rdUK9P-8dnHjysDj_wHeEQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rdUK9P-8dnHjysDj_wHeEQ",
+          "review_count": 500,
+          "categories": [
+              {
+                  "alias": "delis",
+                  "title": "Delis"
+              },
+              {
+                  "alias": "italian",
+                  "title": "Italian"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 40.74301,
+              "longitude": -74.03626
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "414 Adams St",
+              "address2": "",
+              "address3": "",
+              "city": "Hoboken",
+              "zip_code": "07030",
+              "country": "US",
+              "state": "NJ",
+              "display_address": [
+                  "414 Adams St",
+                  "Hoboken, NJ 07030"
+              ]
+          },
+          "phone": "+12016591655",
+          "display_phone": "(201) 659-1655",
+          "distance": 7126.867578704595
+      }
+  ],
+  "total": 1200,
+  "region": {
+      "center": {
+          "longitude": -74.095485,
+          "latitude": 40.697282
+      }
+  }
+}

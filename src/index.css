@@ -11,3 +11,130 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.marker-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  outline-width: 0;
+}
+.marker-btn img {
+  width: 30px;
+  height: 30px;
+}
+
+.plus-btn {
+  width: 30px;
+  height: 30px;
+}
+
+.search {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 30px;
+}
+
+.input {
+  width: 300px;
+  height: 30px;
+  padding: 10px;
+  font-size: 20px;
+  border: none;
+  border-bottom: 1px solid black;
+}
+
+.input:focus {
+  outline-width: 0;
+}
+
+.btn-search {
+  border: 1px solid black;
+  width: 100px;
+  height: 20px;
+  padding: 5px;
+  font-size: 15px;
+  text-align: center;
+  margin-top: 10px;
+  margin-left: 0;
+  border-radius: 200px;
+  box-shadow: 3px 3px;
+  transition: box-shadow 0.2s;
+  margin-bottom: 1rem;
+}
+
+.btn-search:active {
+  transition: transform 0.2s;
+  transform: translate(3px, 2px);
+  box-shadow: 0px 0px;
+}
+
+.search_item_btn {
+  font-size: 11px;
+  /* border: none; */
+  border: 1px solid black;
+  padding: 0.4rem 0.5rem;
+  border-radius: 100px;
+}
+
+.search_item_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #b7b7b7;
+  padding: 0.5rem 0.8rem;
+  margin-top: 10px;
+}
+.search_item_container:first-child {
+  margin-top: 0px;
+}
+
+.search_item_container:hover {
+  background: #f3f3f3;
+}
+
+.search_item_description {
+  font-size: 0.8rem;
+  color: #716e6e;
+}
+
+.btn-search_container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.search_item_title {
+  margin-right: 10px;
+  font-size: 1rem;
+}
+.search_item_list {
+  overflow-y: scroll;
+  height: 75vh;
+}
+
+.popup_details {
+  display: flex;
+  flex-direction: column;
+}
+
+.popup_button {
+  width: 3.5rem;
+  height: 23px;
+  border: 1px solid black;
+  border-radius: 200px;
+}
+
+.popup_title {
+  margin: 0;
+  margin-bottom: 0.5rem;
+}
+
+.popup_address {
+  margin: 0;
+  margin-bottom: 0.5rem;
+}
+.popup_btn_container {
+  display: flex;
+  justify-content: flex-end;
+}
